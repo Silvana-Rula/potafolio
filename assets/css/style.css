@@ -1,0 +1,17 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: #000f08;
+
+}
+
+.hero-section{
+    background-image: url('../img/s_b.jpg');
+    background-repeat: no-repeat;
+    background-size: center;
+}
+
+
+.fondo{
+    background-color: crimson;
+}
